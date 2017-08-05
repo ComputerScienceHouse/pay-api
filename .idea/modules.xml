@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pay-api.iml" filepath="$PROJECT_DIR$/.idea/modules/pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pay-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pay-api_main.iml" group="pay-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pay-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pay-api_test.iml" group="pay-api" />
+    </modules>
+  </component>
+</project>
